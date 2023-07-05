@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fcontainer{
+    background-color: rgb(126, 108, 108);
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 30px 10px;
+}
+.container{
+    background-color: rgb(204, 206, 82);
+    max-width: 800px;
+    margin: 20px auto;
+}
+.header{
+    background-color: rgb(70, 41, 136);
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+    padding: 10px 0;
+}
+.blogpost{
+    text-align: justify;
+    font-family: "Sofia", sans-serif;
+    padding: 20px 10px;
+    font-size: 28px;
+}
+.container_main{
+    background-color: cornsilk;
+    max-width: 800px;
+    margin: 15px auto;
+}
+.header_main{
+    background-color: rgb(86, 143, 86);
+    text-align: center;
+    padding: 10px 0;
+    font-family: "sofia", sans-serif;
+}
+.main_para{
+    background-color: rgb(84, 67, 194);
+    text-align: justify;
+    padding: 20px 10px;
+    font-family: "Montserrat", sans-serif;
+    color: aliceblue;
+}
+
