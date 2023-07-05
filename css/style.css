@@ -43,4 +43,16 @@
     font-family: "Montserrat", sans-serif;
     color: aliceblue;
 }
-
+ul{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 20px;
+    background-color: darkolivegreen;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: azure;
+}
